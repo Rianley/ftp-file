@@ -1,0 +1,148 @@
+
+2016-03-03 16:48:28 - error -  client - show - invalid literal for int() with base 10: '       \n' 
+2016-03-03 17:03:17 - error -  client - show - 'utf-8' codec can't decode bytes in position 146-147: unexpected end of data 
+2016-03-03 17:25:37 - error -  client - show - unorderable types: int() < str() 
+2016-03-03 17:27:10 - error -  client - show - unorderable types: int() < str() 
+2016-03-03 17:28:40 - error -  client - show - invalid literal for int() with base 10: '件.txt\n' 
+2016-03-03 17:28:49 - error -  client - show - invalid literal for int() with base 10: '1503|2016:03-03 17:00:07                 0    1223.txt\n2016:03-03 17:00:13  <DIR>          0    fold' 
+2016-03-03 22:28:56 - info -  send file basic info:put|movie.mp4|421291871|b93252c806046e03fedb5b25ab0e02cc 
+2016-03-03 22:28:56 - info -  upload file, received from server:0|0 
+2016-03-03 22:29:09 - info -  upload file<e:\movie.mp4> successful 
+2016-06-08 09:06:00 - error -  client - show - invalid literal for int() with base 10: '' 
+2016-06-08 09:07:32 - error -  [WinError 10053] 你的主机中的软件中止了一个已建立的连接。 
+2016-06-08 09:07:36 - error -  client - show - [WinError 10053] 你的主机中的软件中止了一个已建立的连接。 
+2016-06-08 09:07:56 - error -  [WinError 10053] 你的主机中的软件中止了一个已建立的连接。 
+2016-06-08 09:08:02 - error -  client - show - [WinError 10053] 你的主机中的软件中止了一个已建立的连接。 
+2016-06-13 14:04:35 - info -  send file basic info:put|puta.txt|42|f2f83cef16b155b1f96b966831b6a4ad 
+2016-06-13 14:04:35 - info -  upload file, received from server:0|0 
+2016-06-13 14:04:35 - info -  upload file<d:/puta.txt> successful 
+2016-06-13 14:05:17 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-13 14:05:17 - info -  upload file, received from server:0|0 
+2016-06-13 14:05:18 - info -  upload file<d:/django.pdf> successful 
+2016-06-13 14:06:03 - info -  send file basic info:put|django.zip|5994535|9a3da1fa3e0ef8c192391b2030963265 
+2016-06-13 14:06:03 - info -  upload file, received from server:0|0 
+2016-06-13 14:06:03 - info -  upload file<d:/django.zip> successful 
+2016-06-21 16:23:44 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:23:44 - info -  upload file, received from server:0|0 
+2016-06-21 16:23:44 - error -  upload file failed!tuple index out of range 
+2016-06-21 16:23:54 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:27:59 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:27:59 - info -  upload file, received from server:1|2103 
+2016-06-21 16:27:59 - error -  upload file failed!tuple index out of range 
+2016-06-21 16:28:08 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:29:44 - info -  send file basic info:put|django.zip|5994535|9a3da1fa3e0ef8c192391b2030963265 
+2016-06-21 16:29:44 - info -  upload file, received from server:0|0 
+2016-06-21 16:29:44 - info -  upload file<d:/django.zip> successful 
+2016-06-21 16:31:10 - info -  send file basic info:put|puta.txt|36288|972c34edbcd99933a6b47ca9b0f70013 
+2016-06-21 16:31:10 - info -  upload file, received from server:0|0 
+2016-06-21 16:31:10 - error -  upload file failed!tuple index out of range 
+2016-06-21 16:31:31 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:34:09 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:34:09 - info -  upload file, received from server:0|0 
+2016-06-21 16:34:09 - info -  upload file<d:/django.pdf> successful 
+2016-06-21 16:34:23 - info -  send file basic info:put|puta.txt|36288|972c34edbcd99933a6b47ca9b0f70013 
+2016-06-21 16:34:23 - info -  upload file, received from server:1|2103 
+2016-06-21 16:34:23 - info -  upload file<d:/puta.txt> successful 
+2016-06-21 16:35:21 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:35:21 - info -  upload file, received from server:0|0 
+2016-06-21 16:35:21 - info -  upload file<d:/django.pdf> successful 
+2016-06-21 16:35:51 - info -  send file basic info:put|django.pdf|6194034|ca2246ea2d71612bcb22afa05aa4d553 
+2016-06-21 16:35:51 - info -  upload file, received from server:0|0 
+2016-06-21 16:35:52 - info -  upload file<d:/django.pdf> successful 
+2018-06-07 13:37:20 - error -  [WinError 10061] 由于目标计算机积极拒绝，无法连接。 
+2018-06-07 13:39:24 - info -  send file basic info:put|oldboy_selection.zip|250129|2949f49df853ce3bcd8c65a8e0d1ffca 
+2018-06-07 13:39:24 - info -  upload file, received from server:0|0 
+2018-06-07 13:39:24 - error -  upload file failed!tuple index out of range 
+2018-06-07 13:39:38 - info -  send file basic info:put|oldboy_selection.zip|250129|2949f49df853ce3bcd8c65a8e0d1ffca 
+2018-06-07 14:07:39 - error -  [Errno 2] No such file or directory: 'G:\\pythoncode\\新建文件夹\\FTP_Server\\client\\download\\oldboy_selection.zip' 
+2018-06-07 14:08:43 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:08:43 - error -  'utf-8' codec can't decode byte 0xae in position 10: invalid start byte 
+2018-06-07 14:08:47 - error -  client - show - 'utf-8' codec can't decode byte 0x96 in position 9: invalid start byte 
+2018-06-07 14:08:53 - error -  client - show - 'utf-8' codec can't decode bytes in position 0-1: invalid continuation byte 
+2018-06-07 14:14:26 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:14:43 - info -  upload file, received from server:1|10 
+2018-06-07 14:15:10 - error -  upload file failed!tuple index out of range 
+2018-06-07 14:19:44 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:24:41 - info -  upload file, received from server:1|10 
+2018-06-07 14:29:21 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:29:35 - info -  upload file, received from server:1|10 
+2018-06-07 14:29:53 - error -  upload file failed!tuple index out of range 
+2018-06-07 14:33:56 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:34:02 - info -  upload file, received from server:0|0 
+2018-06-07 14:44:07 - info -  send file basic info:put|Python+logger流示意图.pdf|89426|202973775b3cd1fad57a05994a9944bd 
+2018-06-07 14:44:09 - info -  upload file, received from server:0|0 
+2018-06-07 14:47:15 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\Python+logger流示意图.pdf> successful 
+2018-06-07 15:10:01 - info -  send file basic info:put|ftp.rar|212037|b4d19ad1d1221ed963b970b4637b1a44 
+2018-06-07 15:10:01 - info -  upload file, received from server:0|0 
+2018-06-07 15:10:01 - info -  upload file<E:\QQ\qqxx\2855132411\FileRecv\ftp.rar> successful 
+2018-06-07 15:57:08 - error -  [Errno 2] No such file or directory: 'G:\\pythoncode\\新建文件夹\\FTP_Server\\client\\download\\ftp.rar' 
+2018-06-08 09:22:30 - error -  [WinError 10061] 由于目标计算机积极拒绝，无法连接。 
+2018-06-08 09:45:23 - error -  'tuple' object has no attribute 'replace' 
+2018-06-08 09:47:58 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 09:47:59 - info -  upload file, received from server:0|0 
+2018-06-08 09:48:04 - error -  upload file failed![Errno 13] Permission denied: 'G:\\pythoncode\\新建文件夹\\FTP_Server\\client\\test' 
+2018-06-08 09:51:10 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 09:51:30 - info -  upload file, received from server:0|0 
+2018-06-08 09:53:40 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 09:53:40 - info -  upload file, received from server:0|0 
+2018-06-08 09:54:25 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:06:15 - error -  [WinError 10061] 由于目标计算机积极拒绝，无法连接。 
+2018-06-08 10:07:22 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:08:12 - info -  upload file, received from server:0|0 
+2018-06-08 10:09:17 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:16:23 - error -  [WinError 10054] 远程主机强迫关闭了一个现有的连接。 
+2018-06-08 10:16:54 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:17:18 - info -  upload file, received from server:0|0 
+2018-06-08 10:17:21 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:21:41 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:21:41 - info -  upload file, received from server:0|0 
+2018-06-08 10:21:41 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:23:23 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:23:32 - info -  upload file, received from server:1|88064 
+2018-06-08 10:23:32 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:26:45 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:27:10 - info -  upload file, received from server:1|88064 
+2018-06-08 10:27:10 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:35:33 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:35:44 - info -  upload file, received from server:0|0 
+2018-06-08 10:35:46 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:39:09 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:39:34 - info -  upload file, received from server:0|0 
+2018-06-08 10:40:11 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:42:59 - info -  send file basic info:put|test.zip|89689|fda7f67b72ffcbb3eec6687acd451f63|1 
+2018-06-08 10:43:07 - info -  upload file, received from server:0|0 
+2018-06-08 10:43:07 - info -  upload file<G:\pythoncode\新建文件夹\FTP_Server\client\\test.zip> successful 
+2018-06-08 10:46:24 - error -  [WinError 10061] 由于目标计算机积极拒绝，无法连接。 
+2018-06-08 10:46:47 - info -  send file basic info:put|test1.zip|426|952c840f8e7691302db7e8af42b43c39|0 
+2018-06-08 10:46:47 - info -  upload file, received from server:0|0 
+2018-06-08 10:46:47 - info -  upload file<G:\test1.zip> successful 
+2018-06-08 10:47:50 - info -  send file basic info:put|wordpress.zip|32470501|677d7ce0ea91c6d9fe15fbf957a37cd1|1 
+2018-06-08 10:47:50 - info -  upload file, received from server:0|0 
+2018-06-08 10:47:50 - info -  upload file<G:\php_project\\wordpress.zip> successful 
+2018-06-08 10:50:26 - info -  send file basic info:put|test1.zip|426|952c840f8e7691302db7e8af42b43c39|0 
+2018-06-08 10:50:26 - info -  upload file, received from server:0|0 
+2018-06-08 10:50:26 - info -  upload file<G:\test1.zip> successful 
+2018-06-08 10:50:50 - info -  send file basic info:put|nginx.zip|3921011|55341cad44dbd55e03c378f68b92b0b6|1 
+2018-06-08 10:50:50 - info -  upload file, received from server:0|0 
+2018-06-08 10:50:50 - info -  upload file<G:\\\nginx.zip> successful 
+2018-06-08 10:54:02 - error -  [Errno 13] Permission denied: 'G:\\baiduDownload\\BaiduNetdisk\\users\\530c1a6eaf0ca090a0b859c831a7aadb\\OnlineEditCfg.xml' 
+2018-06-08 10:54:29 - error -  [Errno 13] Permission denied: 'G:\\baiduDownload\\BaiduNetdisk\\users\\530c1a6eaf0ca090a0b859c831a7aadb\\OnlineEditCfg.xml' 
+2018-06-08 11:37:45 - info -  send file basic info:put|NetBeans 8.2.zip|203594898|feab2ebb84bc9a4dfd730ae341095c30|0 
+2018-06-08 11:37:45 - info -  upload file, received from server:0|0 
+2018-06-08 11:37:48 - info -  upload file<G:\NetBeans 8.2.zip> successful 
+2018-06-08 11:39:47 - info -  send file basic info:put|home6.zip|16439|94e125dac49af568791783aa73213f1d|1 
+2018-06-08 11:39:47 - info -  upload file, received from server:0|0 
+2018-06-08 11:39:47 - info -  upload file<G:\pythoncode\\home6.zip> successful 
+2018-06-08 11:49:30 - info -  send file basic info:put|NetBeans 8.2.zip|203594898|feab2ebb84bc9a4dfd730ae341095c30|0 
+2018-06-08 11:49:30 - info -  upload file, received from server:0|0 
+2018-06-08 11:49:33 - info -  upload file<G:\NetBeans 8.2.zip> successful 
+2018-06-08 11:49:57 - info -  send file basic info:put|wordpress.zip|32470501|677d7ce0ea91c6d9fe15fbf957a37cd1|1 
+2018-06-08 11:49:57 - info -  upload file, received from server:0|0 
+2018-06-08 11:49:58 - info -  upload file<G:\php_project\\wordpress.zip> successful 
+2018-06-08 13:18:54 - error -  [WinError 10061] 由于目标计算机积极拒绝，无法连接。 
+2018-06-08 13:19:55 - info -  send file basic info:put|wordpress.zip|32470501|677d7ce0ea91c6d9fe15fbf957a37cd1|1 
+2018-06-08 13:19:55 - info -  upload file, received from server:0|0 
+2018-06-08 13:19:56 - info -  upload file<G:\php_project\\wordpress.zip> successful 
+2018-06-08 13:20:32 - info -  send file basic info:put|begin4.6.zip|1750381|60b30150fde67de8d163095dfc6361c6|0 
+2018-06-08 13:20:32 - info -  upload file, received from server:0|0 
+2018-06-08 13:20:32 - info -  upload file<G:\php_project\begin4.6.zip> successful 
